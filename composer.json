@@ -1,5 +1,5 @@
 {
-    "name": "apatis/prima",
+    "name": "apatis/container",
     "description": "Dependency Injection Container Implementation for PSR11",
     "type": "project",
     "require": {
