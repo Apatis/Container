@@ -1,7 +1,7 @@
 {
     "name": "apatis/container",
     "description": "Dependency Injection Container Implementation for PSR11",
-    "type": "project",
+    "type": "library",
     "require": {
         "php": "^7.0",
         "pimple/pimple": "^3.0",
